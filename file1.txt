@@ -1,2 +1,4 @@
 first file to commit
 this file is now modified
+I have made this change in the file1.txt of master branch
+Check if it is there in the other branch.
